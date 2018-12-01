@@ -1,0 +1,14 @@
+/.classpath
+/.project
+/workspace
+/java
+/bin
+/.settings
+*.log
+*.tmp
+*.pid
+./gradle
+/build
+/gradle
+/.idea
+/*.iml
